@@ -90,6 +90,11 @@ main .operator__key {
   font-weight: 900;
 }
 
+main .clear__key {
+  color: #ff652f;
+  font-weight: 900;
+}
+
 main .equal__key {
   color: #40b85e;
   font-weight: 900;
